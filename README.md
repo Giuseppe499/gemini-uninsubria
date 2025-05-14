@@ -1,3 +1,21 @@
+# Gemini Uninsubria
+
+Gemini Uninsubria is an unofficial LaTeX [beamerposter] theme for the University of Insubria (Università degli Studi dell'Insubria).
+It is a fork of the original [Gemini] theme.
+
+### Insubria theme
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/Giuseppe499/gemini-uninsubria/master/demo/poster.pdf">
+<img src="https://raw.githubusercontent.com/Giuseppe499/gemini-uninsubria/master/demo/poster.webp">
+</a>
+</p>
+
+[Gemini]: https://github.com/anishathalye/gemini
+
+<details>
+  <summary>Original Gemini theme ReadMe. Click to Expand.</summary>
+
 # Gemini [![Build Status](https://github.com/anishathalye/gemini/actions/workflows/ci.yml/badge.svg)](https://github.com/anishathalye/gemini/actions/workflows/ci.yml)
 
 Gemini is a modern LaTeX [beamerposter] theme.
@@ -89,3 +107,5 @@ Copyright (c) Anish Athalye. Released under the MIT License. See
 [Lato]: https://www.fontsquirrel.com/fonts/lato
 [license]: LICENSE.md
 [FAQ]: https://github.com/anishathalye/gemini/wiki/FAQ
+
+</details>
